@@ -2,10 +2,10 @@
 title: Kontakt-O Nas
 logo: /img/logo.svg
 contact_entries:
-  - heading: Location
-    text: '3153 Lynn Avenue, South San Francisco, California 94080'
+  - heading: Adres
+    text: 06-400 Ciechanów; ul. Trzech Stawów 10
   - heading: Working hours
-    text: 'Monday – Saturday: 9AM – 7PM We’re closed on Sundays'
+    text: 'Poniedziałek – Piątek: 8:00 – 16:00 wyjątkowo  sobota 8:00 - 14:00'
 ---
 
 We’d love to get in touch with you and hear your ideas and
