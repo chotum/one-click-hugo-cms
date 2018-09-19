@@ -1,9 +1,9 @@
 ---
 title: Kontakt-O Nas
-logo: /img/logo.svg
+logo: /img/about-single-origin.jpg
 contact_entries:
   - heading: Adres
-    text: 06-400 Ciechanów; ul. Trzech Stawów 10
+    text: 06-400 Ciechanów; Chotum 54
   - heading: Working hours
     text: 'Poniedziałek – Piątek: 8:00 – 16:00 wyjątkowo  sobota 8:00 - 14:00'
 ---
