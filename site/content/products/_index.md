@@ -5,7 +5,7 @@ heading: Nasza oferta
 description: Nowato kotły na pelet 5 klasa
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: /img/263a7.jpg
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
