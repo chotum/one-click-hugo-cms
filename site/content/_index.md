@@ -1,7 +1,7 @@
 ---
 title: Wizytówka firmy Nowato
 subtitle: 'Ciechanów, Mazowsze, '
-image: /img/2013-08-09-13.58.29.jpg
+image: /img/2013-08-09-14.05.04.jpg
 blurb:
   heading: Dlaczego Nowato?
   text: Jesteśmy małą rodzinną firmą i każde zlecenie traktujemy indywidualnie.
