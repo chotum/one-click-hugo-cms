@@ -1,7 +1,7 @@
 ---
-title: Strona w budowie
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Wizytówka firmy Nowato
+subtitle: 'Ciechanów, Mazowsze, '
+image: /img/2013-08-09-13.58.29.jpg
 blurb:
   heading: Why Kaldi?
   text: >-
