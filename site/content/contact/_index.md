@@ -1,19 +1,14 @@
 ---
 title: Kontakt-O Nas
-logo: /img/about-single-origin.jpg
+logo: /img/screenshot-2017-12-22-mapy-google.png
 contact_entries:
   - heading: Adres
-    text: 06-400 Ciechanów; Chotum 54
-  - heading: Working hours
-    text: 'Poniedziałek – Piątek: 8:00 – 16:00 wyjątkowo  sobota 8:00 - 14:00'
+    text: '06-400 Ciechanów; Grędzice , Trzech Stawów 10'
+  - heading: Telefon i mail
+    text: 531 026 120 j.jezierski (małpka) nowato.pl
 ---
+Operujemy w promieniu 100-150 km od Ciechanowa
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+<h3 class="f4 b lh-title mb2">Nie tylko montujemy urządzenia ale je także serwisujemy</h3>
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
-
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+Zapraszam do kontaktu
