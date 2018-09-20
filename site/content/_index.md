@@ -3,33 +3,29 @@ title: Wizytówka firmy Nowato
 subtitle: 'Ciechanów, Mazowsze, '
 image: /img/2013-08-09-13.58.29.jpg
 blurb:
-  heading: Why Kaldi?
-  text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Dlaczego Nowato?
+  text: Jesteśmy małą rodzinną firmą i każde zlecenie traktujemy indywidualnie.
 intro:
-  heading: What we offer
+  heading: Nasza oferta
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    Sprzedaż i montaż: kotłów na pelet, piecy kominkowych na pelet i drewno,
+    kotłów dolnego spalania, a także : sprzedaż i montaż drewnianych tarasów
+    oraz galanterii ogrodowej. Wykonujemy też usługi remontowo budowlane w
+    pewnym zakresie.
 products:
-  - image: img/illustrations-coffee.svg
+  - image: /img/263a7.jpg
     text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
+      Kotły i piece kominkowe na pelet Lidia Compact firmy Kozlusan oraz cała
+      gama produktów RED Performa, MCZ, CADEL we współpracy z firmą WENTOR.pl
+  - image: /img/img_20180822_105503.jpg
     text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+      Sprzedaż i montaż kotłów dolnego spalania posiadających 5 Klasę firmy MPM
+      Produkt - nie sprzedajemy innych kotłów na węgiel i drewno. Zapytaj
+      dlaczego?
+  - image: /img/img_20180720_155119.jpg
+    text: >-
+      Wykonywanie tarasów i inne elementy drobnej architektury drewnianej:
+      wiaty, pergole, altany.
 values:
   heading: Our values
   text: >-
