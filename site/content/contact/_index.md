@@ -2,10 +2,15 @@
 title: Kontakt-O Nas
 logo: /img/screenshot-2017-12-22-mapy-google.png
 contact_entries:
-  - heading: Adres
-    text: '06-400 Ciechanów; Grędzice , Trzech Stawów 10'
-  - heading: Telefon i mail
-    text: 531 026 120 j.jezierski (małpka) nowato.pl
+  - heading: Adres i konakt
+    text: |-
+      06-400 Ciechanów; Grędzice , Trzech Stawów 10
+      531 026 120 j.jezierski (małpka) nowato.pl
+  - heading: Dane firmy
+    text: |-
+      Nowato Dorota Jezierska
+      06-400 Grędzice ul. Trzech Stawów 10
+      566-101-28-01
 ---
 Operujemy w promieniu 100-150 km od Ciechanowa
 
