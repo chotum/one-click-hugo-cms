@@ -1,7 +1,7 @@
 ---
 title: "Realizacje"
 image: /img/about-jumbotron.jpg
-Realizacje:
+Values:
   - heading: "Shade-grown coffee"
     text: >
       Coffee is a small tree or shrub that grows in the forest
