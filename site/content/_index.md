@@ -27,7 +27,7 @@ products:
       Wykonywanie tarasów i inne elementy drobnej architektury drewnianej:
       wiaty, pergole, altany.
 values:
-  heading: Our values
+  heading: Nasze realizacje
   text: >-
     Coffee is an amazing part of human culture but it has a dark side too – one
     of colonialism and mindless abuse of natural resources and human lives. We
