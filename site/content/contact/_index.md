@@ -1,6 +1,6 @@
 ---
 title: Kontakt-O Nas
-logo: /img/screenshot-2017-12-22-mapy-google.png
+logo: /img/20170420_191428.jpg
 contact_entries:
   - heading: Adres i konakt
     text: |-
@@ -12,6 +12,8 @@ contact_entries:
       06-400 Grędzice ul. Trzech Stawów 10
       566-101-28-01
 ---
+![Dojazd](/img/screenshot-2017-12-22-mapy-google.png)
+
 Operujemy w promieniu 100-150 km od Ciechanowa
 
 <h3 class="f4 b lh-title mb2">Nie tylko montujemy urządzenia ale je także serwisujemy</h3>
