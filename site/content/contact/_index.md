@@ -1,6 +1,5 @@
 ---
 title: Kontakt-O Nas
-logo: /img/20170420_191428.jpg
 contact_entries:
   - heading: Adres i konakt
     text: |-
