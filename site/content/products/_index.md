@@ -1,6 +1,6 @@
 ---
 title: Produkty
-image: /img/products-jumbotron.jpg
+image: /img/20170420_191428.jpg
 heading: Nasza oferta
 description: Nowato kotły na pelet 5 klasa
 intro:
